@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-sports-game-assessment/static/css/main.3bde31c1.chunk.css",
+    "main.js": "/react-sports-game-assessment/static/js/main.677e44d4.chunk.js",
+    "main.js.map": "/react-sports-game-assessment/static/js/main.677e44d4.chunk.js.map",
+    "runtime-main.js": "/react-sports-game-assessment/static/js/runtime-main.4bd516d6.js",
+    "runtime-main.js.map": "/react-sports-game-assessment/static/js/runtime-main.4bd516d6.js.map",
+    "static/js/2.7005453d.chunk.js": "/react-sports-game-assessment/static/js/2.7005453d.chunk.js",
+    "static/js/2.7005453d.chunk.js.map": "/react-sports-game-assessment/static/js/2.7005453d.chunk.js.map",
+    "index.html": "/react-sports-game-assessment/index.html",
+    "precache-manifest.e9fd94bb9b75c14a7d71034580b891cb.js": "/react-sports-game-assessment/precache-manifest.e9fd94bb9b75c14a7d71034580b891cb.js",
+    "service-worker.js": "/react-sports-game-assessment/service-worker.js",
+    "static/css/main.3bde31c1.chunk.css.map": "/react-sports-game-assessment/static/css/main.3bde31c1.chunk.css.map",
+    "static/js/2.7005453d.chunk.js.LICENSE.txt": "/react-sports-game-assessment/static/js/2.7005453d.chunk.js.LICENSE.txt",
+    "static/media/Back+Board.wav": "/react-sports-game-assessment/static/media/Back+Board.edb1b73e.wav",
+    "static/media/Swish.wav": "/react-sports-game-assessment/static/media/Swish.c9787971.wav",
+    "static/media/shotclockhorn.wav": "/react-sports-game-assessment/static/media/shotclockhorn.fcecaee6.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bd516d6.js",
+    "static/js/2.7005453d.chunk.js",
+    "static/css/main.3bde31c1.chunk.css",
+    "static/js/main.677e44d4.chunk.js"
+  ]
+}
